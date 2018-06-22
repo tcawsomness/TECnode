@@ -1,0 +1,24 @@
+body {
+  background-color: crimson;
+  color: white;
+}
+
+#SiteTitle {
+  color: DodgerBlue;
+}
+
+section {
+  float: right;
+  width: 25%;
+  background-color: gold;
+}
+
+#TECnodecar {
+  float:left;
+  width: 50%;
+}
+
+#Picture1Caption
+{
+  clear:both;
+}
